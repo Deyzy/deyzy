@@ -15,7 +15,7 @@
     <img align="center" alt="JAVA" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">   
 </div><br/>
 
-### Estudando Ciência da Computação, apaixonada por tecnologia
+### Cursando Ciência da Computação, apaixonada por tecnologia
 
 ### Email para contato:
 Deisesantos487@gmail.com
