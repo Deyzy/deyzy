@@ -12,7 +12,7 @@ Jogo clássico de adivinhação desenvolvido em C.
 ---
 
 ### [WebApp - Laboratório de Pentest](https://github.com/Deyzy/webapp)
-> *API web criada para testes de Pentest*
+> *API web criada para testes de Pentest - Em breve novas melhorias na segurança*
 
 Uma aplicação web vulnerável, projetada para testes de segurança e aprendizado. Implantada com Docker Compose.
 
