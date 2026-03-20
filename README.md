@@ -1,8 +1,8 @@
 ## Olá! eu sou a Deise 🖖
 
-## 🚀 Projetos em Destaque
+## Projetos 🚀
 
-### 🎲 [Jogos-em-C](https://github.com/Deyzy/Jogos-em-C)
+### [Jogos-em-C](https://github.com/Deyzy/Jogos-em-C)
 > *Jogo da Adivinhação - Em breve novos jogos!*
 
 Jogo clássico de adivinhação desenvolvido em C.
@@ -11,7 +11,7 @@ Jogo clássico de adivinhação desenvolvido em C.
 
 ---
 
-### 🌐 [WebApp - Laboratório de Pentest](https://github.com/Deyzy/webapp)
+### [WebApp - Laboratório de Pentest](https://github.com/Deyzy/webapp)
 > *API web criada para testes de Pentest*
 
 Uma aplicação web vulnerável, projetada para testes de segurança e aprendizado. Implantada com Docker Compose.
@@ -20,7 +20,7 @@ Uma aplicação web vulnerável, projetada para testes de segurança e aprendiza
 
 ---
 
-### ☕ [Java CRUD](https://github.com/Deyzy/java)
+### [Java CRUD](https://github.com/Deyzy/java)
 > *CRUD desenvolvido nas aulas de programação*
 
 Um CRUD completo (Create, Read, Update, Delete) construído para programação orientada a objetos e integração com banco de dados.
@@ -29,7 +29,7 @@ Um CRUD completo (Create, Read, Update, Delete) construído para programação o
 
 ---
 
-### 👤 [Web Reconhecimento Facial](https://github.com/Deyzy/web-reconhecimento)
+### [Web Reconhecimento Facial](https://github.com/Deyzy/web-reconhecimento)
 > *Aplicação web para reconhecimento facial*
 
 Um sistema web de reconhecimento facial utilizando deep learning para detecção e identificação de faces em tempo real. 
